@@ -39,10 +39,10 @@ else:
     if human==computer:
         print("Draw")
     elif human==0 and computer==2:
-        print("You win")
+        print("You win!")
     elif human==1 and computer==0:
-        print("You win")
+        print("You win!")
     elif human==2 and computer==1:
-        print("You win")
+        print("You win!")
     else:
         print("You lose")
